@@ -13,6 +13,8 @@ Nodejs/Flask
 
 2. Backend:
 
+Nodemailer Production Ready Docs
+https://blog.devgenius.io/correct-way-in-setting-up-nodemailer-for-email-service-946f6bfd73e8
 
 3. Database
 
